@@ -1,2 +1,0 @@
-# projects
-bot v2
